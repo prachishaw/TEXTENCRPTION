@@ -12,7 +12,7 @@ export const Header: React.FC = () => {
               <Lock className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-green-600" size={16} />
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-green-400">CryptoGuard</h1>
+              <h1 className="text-3xl font-bold text-green-400">TextEncryption</h1>
               <p className="text-green-300/70 text-sm">Advanced Text Encryption Suite</p>
             </div>
           </div>
